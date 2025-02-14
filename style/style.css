@@ -113,13 +113,6 @@ body {
   font-size: 15rem;
 }
 
-.girl-dp {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  clip-path: path("M 100,30 A 40,40 0 1,1 30,100 Q 100,180 170,100 A 40,40 0 1,1 100,30 Z");
-}
-
 .six {
   position: relative;
 }
